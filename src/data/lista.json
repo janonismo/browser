@@ -1,5 +1,5 @@
 {
-  "versao": 11,
+  "versao": 12,
   "atualizado": "2026-11-17",
   "perfis": [
     { "nome": "Jair Bolsonaro", "x": ["jairbolsonaro"], "instagram": ["jairmessiasbolsonaro"], "tiktok": ["bolsonaromessiasjair"], "youtube": ["UC8hGUtfEgvvnp6IaHSAg1OQ", "jbolsonaro"], "facebook": ["jairmessias.bolsonaro"], "threads": ["jairmessiasbolsonaro"], "telegram": ["jairbolsonarobrasil"] },
@@ -73,6 +73,7 @@
     { "nome": "Amanda Vettorazzo", "instagram": ["amanda.vettorazzo"], "tiktok": ["amanda.vettorazzo"], "threads": ["amanda.vettorazzo"] },
     { "nome": "Eduarda Campopiano", "x": ["dudacampopiano"], "instagram": ["eduarda_campopiano", "eduardacampopianobr"], "tiktok": ["eduarda.campopiano"], "youtube": ["eduardacampopiano"], "facebook": ["eduardacampopiano"], "threads": ["eduarda_campopiano", "eduardacampopianobr"] },
     { "nome": "Lucas Pavanato", "x": ["lucaspavanato"], "instagram": ["lucaspavanato"], "tiktok": ["lucaspavanato"], "youtube": ["lucaspavanato", "uc72ujvo3m_ph5kfg4fkatoa"], "facebook": ["lucaspavanato"], "threads": ["lucaspavanato"] },
-    { "nome": "Major Vitor Hugo", "x": ["majorvitorhugo"], "instagram": ["majorvitorhugo"], "tiktok": ["vitorhugogoias"], "youtube": ["vitorhugogo"], "facebook": ["deputadovitorhugo"], "threads": ["majorvitorhugo"] }
+    { "nome": "Major Vitor Hugo", "x": ["majorvitorhugo"], "instagram": ["majorvitorhugo"], "tiktok": ["vitorhugogoias"], "youtube": ["vitorhugogo"], "facebook": ["deputadovitorhugo"], "threads": ["majorvitorhugo"] },
+    { "nome": "Anderson Ferreira", "x": ["simboramudar22"], "instagram": ["andersonferreira.22"], "youtube": ["andersonferreirapl"], "facebook": ["eutocomanderson22"], "threads": ["andersonferreira.22"] }
   ]
 }

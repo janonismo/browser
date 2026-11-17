@@ -1,5 +1,5 @@
 {
-  "versao": 7,
+  "versao": 8,
   "atualizado": "2026-11-17",
   "perfis": [
     { "nome": "Jair Bolsonaro", "x": ["jairbolsonaro"], "instagram": ["jairmessiasbolsonaro"], "tiktok": ["bolsonaromessiasjair"], "youtube": ["UC8hGUtfEgvvnp6IaHSAg1OQ", "jbolsonaro"], "facebook": ["jairmessias.bolsonaro"], "threads": ["jairmessiasbolsonaro"], "telegram": ["jairbolsonarobrasil"] },
@@ -69,6 +69,7 @@
     { "nome": "Carlos Portinho", "x": ["carlosfportinho"], "instagram": ["carlosportinho"], "tiktok": ["carlosfportinho"], "youtube": ["carlosfportinho"], "facebook": ["carlosfportinho"], "threads": ["carlosportinho"] },
     { "nome": "Rubinho Nunes", "x": ["rubinhonunes"], "instagram": ["rubinhonunes.sp"], "tiktok": ["rubinhonunes.sp"], "youtube": ["rubinhonunessp"], "facebook": ["rubinhonunes.sp"], "threads": ["rubinhonunes.sp"], "kwai": ["rubinhonunes"], "telegram": ["rubinhonunes"] },
     { "nome": "Arthur do Val", "x": ["arthurmoledoval"], "instagram": ["arthurmoledoval", "mamaefalei"], "youtube": ["ucksjy-ioeq-emtarzl2uh1q", "mamaefalei"], "facebook": ["arthurdoval"], "threads": ["arthurmoledoval"] },
-    { "nome": "Renan Santos", "x": ["renansantosmbl"], "instagram": ["renansantosmbl", "renanvote14", "oncaviral", "multiversoamarelo", "jaguatiricahub", "nextfragments", "blackjaguarsquad"], "tiktok": ["renansantosmbl", "renansantosreserva", "oncaviral", "multiversoamarelo", "jaguatiricahub", "nextfragments", "blackjaguarsquad"], "youtube": ["renansantosmbl"], "facebook": ["renansantosmbl"], "threads": ["renansantosmbl"] }
+    { "nome": "Renan Santos", "x": ["renansantosmbl"], "instagram": ["renansantosmbl", "renanvote14", "oncaviral", "multiversoamarelo", "jaguatiricahub", "nextfragments", "blackjaguarsquad"], "tiktok": ["renansantosmbl", "renansantosreserva", "oncaviral", "multiversoamarelo", "jaguatiricahub", "nextfragments", "blackjaguarsquad"], "youtube": ["renansantosmbl"], "facebook": ["renansantosmbl"], "threads": ["renansantosmbl"] },
+    { "nome": "Amanda Vettorazzo", "instagram": ["amanda.vettorazzo"], "tiktok": ["amanda.vettorazzo"], "threads": ["amanda.vettorazzo"] }
   ]
 }

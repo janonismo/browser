@@ -1,5 +1,5 @@
 {
-  "versao": 23,
+  "versao": 24,
   "atualizado": "2026-11-17",
   "perfis": [
     { "nome": "Jair Bolsonaro", "x": ["jairbolsonaro"], "instagram": ["jairmessiasbolsonaro"], "tiktok": ["bolsonaromessiasjair"], "youtube": ["UC8hGUtfEgvvnp6IaHSAg1OQ", "jbolsonaro"], "facebook": ["jairmessias.bolsonaro"], "threads": ["jairmessiasbolsonaro"], "telegram": ["jairbolsonarobrasil"] },
@@ -84,6 +84,7 @@
     { "nome": "Adriane Lopes", "instagram": ["adrianelopesms"], "tiktok": ["prefeita.adriane"], "youtube": ["adrianelopesms"], "facebook": ["adrianelopesms"], "threads": ["adrianelopesms"] },
     { "nome": "Guilherme Derrite", "x": ["derritesp"], "instagram": ["guilhermederrite"], "facebook": ["guilhermederrite"], "threads": ["guilhermederrite"] },
     { "nome": "Roberto Jefferson", "x": ["bob14_oficial"], "instagram": ["bob14_oficial"], "tiktok": ["bob14_oficial"], "facebook": ["bob14_oficial-101104762722266", "101104762722266"], "threads": ["bob14_oficial"] },
-    { "nome": "Guto Zacarias", "x": ["gutozacariasmbl"], "instagram": ["gutozacariasmbl", "imperadorgutozacarias"], "tiktok": ["gutozacariasmbl"], "youtube": ["gutozacariasmbl"], "facebook": ["gutozacariasmbl"], "threads": ["gutozacariasmbl"], "kwai": ["gutozacariasmbl"] }
+    { "nome": "Guto Zacarias", "x": ["gutozacariasmbl"], "instagram": ["gutozacariasmbl", "imperadorgutozacarias"], "tiktok": ["gutozacariasmbl"], "youtube": ["gutozacariasmbl"], "facebook": ["gutozacariasmbl"], "threads": ["gutozacariasmbl"], "kwai": ["gutozacariasmbl"] },
+    { "nome": "Kim Kataguiri", "x": ["kimkataguiri"], "instagram": ["kimkataguiri"], "tiktok": ["kimkataguiri"], "youtube": ["kimkataguiri"], "facebook": ["kimkataguiri"], "threads": ["kimkataguiri"], "kwai": ["kimkataguiri"] }
   ]
 }

@@ -36,8 +36,8 @@ const alvos = {
   },
 };
 
-if (!existsSync(join(SRC, 'assets', 'janones.gif'))) {
-  console.warn('⚠  src/assets/janones.gif não existe — o overlay vai usar o placeholder.svg.');
+if (!existsSync(join(SRC, 'assets', 'janones.webp'))) {
+  console.warn('⚠  src/assets/janones.webp não existe — o overlay vai usar o placeholder.svg.');
 }
 
 rmSync(DIST, { recursive: true, force: true });

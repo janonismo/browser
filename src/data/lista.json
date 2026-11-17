@@ -1,6 +1,6 @@
 {
-  "versao": 2,
-  "atualizado": "2026-10-27",
+  "versao": 3,
+  "atualizado": "2026-11-17",
   "perfis": [
     { "nome": "Jair Bolsonaro", "x": ["jairbolsonaro"], "instagram": ["jairmessiasbolsonaro"], "tiktok": ["bolsonaromessiasjair"], "youtube": ["UC8hGUtfEgvvnp6IaHSAg1OQ", "jbolsonaro"], "facebook": ["jairmessias.bolsonaro"], "threads": ["jairmessiasbolsonaro"], "telegram": ["jairbolsonarobrasil"] },
     { "nome": "Eduardo Bolsonaro", "x": ["bolsonarosp"], "instagram": ["bolsonarosp"], "youtube": ["UCkR6xPOHhpjq3wnFchVI4sg"], "facebook": ["bolsonaro.enb"] },
@@ -64,6 +64,7 @@
     { "nome": "Brasil Paralelo", "instagram": ["portalbrasilparalelo"], "youtube": ["UCKDjjeeBmdaiicey2nImISw"] },
     { "nome": "Revista Oeste", "x": ["revistaoeste"], "instagram": ["revistaoeste"], "youtube": ["revistaoeste"], "facebook": ["oesterevista"], "telegram": ["revistaoesteoficial"] },
     { "nome": "Donald Trump", "x": ["realdonaldtrump"], "instagram": ["realdonaldtrump"], "tiktok": ["realdonaldtrump"], "youtube": ["UCAql2DyGU2un1Ei2nMYsqOA", "donaldjtrumpforpresident"], "facebook": ["donaldtrump"], "truthsocial": ["realdonaldtrump"] },
-    { "nome": "Javier Milei", "x": ["jmilei"], "instagram": ["javiermilei"], "tiktok": ["javiermileii"], "youtube": ["UCwKZnJ48oXRCCGCQbL1BPSA"], "facebook": ["javiermileieconomista"] }
+    { "nome": "Javier Milei", "x": ["jmilei"], "instagram": ["javiermilei"], "tiktok": ["javiermileii"], "youtube": ["UCwKZnJ48oXRCCGCQbL1BPSA"], "facebook": ["javiermileieconomista"] },
+    { "nome": "Rafael Rizzo", "x": ["rizzombl"], "instagram": ["rizzombl"], "threads": ["rizzombl"] }
   ]
 }

@@ -1,10 +1,15 @@
 # Janonismo
 
 [![Chrome Web Store](https://img.shields.io/chrome-web-store/v/ocoaoegendhaggfciobaddpffdlaanog?label=Chrome%20Web%20Store&logo=googlechrome&logoColor=white)](https://chromewebstore.google.com/detail/janonismo-%E2%80%94-n%C3%A3o-engaje-a/ocoaoegendhaggfciobaddpffdlaanog)
-[![Usuários](https://img.shields.io/chrome-web-store/users/ocoaoegendhaggfciobaddpffdlaanog?label=usu%C3%A1rios)](https://chromewebstore.google.com/detail/janonismo-%E2%80%94-n%C3%A3o-engaje-a/ocoaoegendhaggfciobaddpffdlaanog)
-[![Avaliação](https://img.shields.io/chrome-web-store/rating/ocoaoegendhaggfciobaddpffdlaanog?label=avalia%C3%A7%C3%A3o)](https://chromewebstore.google.com/detail/janonismo-%E2%80%94-n%C3%A3o-engaje-a/ocoaoegendhaggfciobaddpffdlaanog)
+[![Usuários no Chrome](https://img.shields.io/chrome-web-store/users/ocoaoegendhaggfciobaddpffdlaanog?label=usu%C3%A1rios)](https://chromewebstore.google.com/detail/janonismo-%E2%80%94-n%C3%A3o-engaje-a/ocoaoegendhaggfciobaddpffdlaanog)
+[![Avaliação no Chrome](https://img.shields.io/chrome-web-store/rating/ocoaoegendhaggfciobaddpffdlaanog?label=avalia%C3%A7%C3%A3o)](https://chromewebstore.google.com/detail/janonismo-%E2%80%94-n%C3%A3o-engaje-a/ocoaoegendhaggfciobaddpffdlaanog)
+<br>
+[![Firefox Add-ons](https://img.shields.io/amo/v/janonismo?label=Firefox%20Add-ons&logo=firefoxbrowser&logoColor=white)](https://addons.mozilla.org/pt-BR/firefox/addon/janonismo/)
+[![Usuários no Firefox](https://img.shields.io/amo/users/janonismo?label=usu%C3%A1rios)](https://addons.mozilla.org/pt-BR/firefox/addon/janonismo/)
+[![Avaliação no Firefox](https://img.shields.io/amo/rating/janonismo?label=avalia%C3%A7%C3%A3o)](https://addons.mozilla.org/pt-BR/firefox/addon/janonismo/)
 
-**[Instalar no Chrome](https://chromewebstore.google.com/detail/janonismo-%E2%80%94-n%C3%A3o-engaje-a/ocoaoegendhaggfciobaddpffdlaanog)**
+**[Instalar no Chrome](https://chromewebstore.google.com/detail/janonismo-%E2%80%94-n%C3%A3o-engaje-a/ocoaoegendhaggfciobaddpffdlaanog)** ·
+**[Instalar no Firefox](https://addons.mozilla.org/pt-BR/firefox/addon/janonismo/)** (computador e Android)
 
 ## Como funciona
 

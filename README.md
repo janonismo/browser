@@ -25,6 +25,7 @@ Os testes ficam em `test/` e usam só o `node:test`:
 - `plataformas.test.mjs`: quais URLs viram perfil (e quais não viram) em cada rede.
 - `lista.test.mjs`: junção da lista embutida, da remota, dos extras e dos removidos, e como a extensão se
   comporta quando o download da lista remota falha (com um `chrome.storage` simulado).
+- `background.test.mjs`: mensagens (download pelo background, contador sem perder avisos), instalação e alarme.
 - `aplicar-issue.test.mjs`: leitura das issues de sugestão e o que o script devolve para o workflow.
 - `dados.test.mjs`: `lista.json` válida e sem duplicados, e manifest, plataformas e formulário da issue
   coerentes entre si.
@@ -49,8 +50,10 @@ e o Dependabot abre PRs mensais para atualizá-las.
 
 ## A lista
 
-Lista efetiva = `src/data/lista.json` (embutida) + lista remota + perfis que o usuário adicionou −
-perfis que o usuário desmarcou. Tudo é editável em *Configurações*.
+Lista efetiva = lista remota (ou `src/data/lista.json`, a embutida, enquanto nenhuma lista remota foi baixada)
+\+ perfis que o usuário adicionou − perfis que o usuário desmarcou. Tudo é editável em *Configurações*.
+Como a lista remota substitui a embutida, tirar um perfil do `lista.json` tira ele de todas as extensões
+no próximo download, sem precisar publicar uma versão nova.
 
 ```json
 {

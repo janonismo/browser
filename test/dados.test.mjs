@@ -1,7 +1,7 @@
 // Confere que os arquivos de dados e de configuração continuam coerentes entre si.
 import { describe, it } from 'node:test';
 import assert from 'node:assert/strict';
-import { existsSync, readdirSync } from 'node:fs';
+import { existsSync, readdirSync, statSync } from 'node:fs';
 import { join } from 'node:path';
 
 import { interpretarHandle, serializar } from '../scripts/aplicar-issue.mjs';
@@ -94,6 +94,20 @@ describe('src/manifest.base.json', () => {
       ...['background.js', 'shared/plataformas.js', 'shared/lista.js', 'data/lista.json'], // usados pelo build.mjs
     ];
     assert.deepEqual(arquivos.filter((a) => !existsSync(join(SRC, a))), []);
+  });
+});
+
+describe('src/assets/', () => {
+  // O GIF de 1,6 MB era ~90% dos pacotes (issue #3). Arquivos grandes aqui vão inteiros para os .zip.
+  const LIMITE = 300 * 1024;
+
+  it(`nenhum arquivo passa de ${LIMITE / 1024} KB`, () => {
+    const assets = join(SRC, 'assets');
+    const grandes = readdirSync(assets, { recursive: true })
+      .map((f) => ({ f, tamanho: statSync(join(assets, f)).size }))
+      .filter(({ tamanho }) => tamanho > LIMITE)
+      .map(({ f, tamanho }) => `${f}: ${Math.round(tamanho / 1024)} KB`);
+    assert.deepEqual(grandes, []);
   });
 });
 

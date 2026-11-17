@@ -227,7 +227,7 @@
       horario,
     ]);
 
-    const img = el('img', { src: chrome.runtime.getURL('assets/janones.gif'), alt: 'Janones gritando para você parar' });
+    const img = el('img', { src: chrome.runtime.getURL('assets/janones.webp'), alt: 'Janones gritando para você parar' });
     img.addEventListener('error', () => {
       img.src = chrome.runtime.getURL('assets/placeholder.svg');
     }, { once: true });

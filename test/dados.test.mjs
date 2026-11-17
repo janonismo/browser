@@ -60,6 +60,20 @@ describe('src/data/lista.json', () => {
   });
 });
 
+describe('licenças', () => {
+  it('o package.json declara a licença do código', () => {
+    assert.equal(lerJson('package.json').license, 'GPL-3.0-or-later');
+  });
+
+  for (const [arquivo, titulo] of [
+    [['LICENSE'], /GNU GENERAL PUBLIC LICENSE\s+Version 3/],
+    [['src', 'data', 'LICENSE'], /CC0 1\.0 Universal/],
+    [['src', 'assets', 'fonts', 'OFL.txt'], /SIL Open Font License/],
+  ]) {
+    it(`${arquivo.join('/')} existe e tem o texto da licença`, () => assert.match(ler(...arquivo), titulo));
+  }
+});
+
 describe('src/manifest.base.json', () => {
   const manifest = lerJson('src', 'manifest.base.json');
   const hostsDosMatches = manifest.content_scripts

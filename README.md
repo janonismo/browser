@@ -98,3 +98,15 @@ A extensão baixa essa lista a cada 6 horas e, se o download falhar ou o JSON vi
 1. Quem quiser sugerir abre uma issue com o formulário **Adicionar perfil à lista**
    (`.github/ISSUE_TEMPLATE/adicionar-perfil.yml`), que já entra com o rótulo `novo-perfil`.
 2. Alguém da equipe avalia e aplica o rótulo `aprovado`.
+
+## Licença
+
+Copyright (C) 2026 Contribuidores do Janonismo.
+
+- **Código:** [GPL-3.0](LICENSE) ou posterior. Quem distribuir uma versão modificada precisa publicar o
+  código dela sob a mesma licença.
+- **Lista de perfis** (`src/data/lista.json` e a publicada em `janonismo.vercel.app/lista.json`):
+  [CC0 1.0](src/data/LICENSE), domínio público. Pode ser reutilizada sem pedir autorização.
+- **Fontes Barlow** (`src/assets/fonts/`): SIL Open Font License 1.1, ver [`OFL.txt`](src/assets/fonts/OFL.txt).
+- **Imagem do overlay** (`src/assets/janones.*`): imagem de terceiros, que não está coberta pela GPL nem
+  pelo CC0.

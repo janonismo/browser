@@ -1,5 +1,5 @@
 {
-  "versao": 18,
+  "versao": 19,
   "atualizado": "2026-11-17",
   "perfis": [
     { "nome": "Jair Bolsonaro", "x": ["jairbolsonaro"], "instagram": ["jairmessiasbolsonaro"], "tiktok": ["bolsonaromessiasjair"], "youtube": ["UC8hGUtfEgvvnp6IaHSAg1OQ", "jbolsonaro"], "facebook": ["jairmessias.bolsonaro"], "threads": ["jairmessiasbolsonaro"], "telegram": ["jairbolsonarobrasil"] },
@@ -17,7 +17,7 @@
     { "nome": "Ricardo Salles", "x": ["rsallesmma"], "instagram": ["ricardosallesmma"], "youtube": ["UCQziFSWcDRTVQVnsrDa7v0A", "ricardosalles2196"] },
     { "nome": "Allan dos Santos", "x": ["allanldsantos", "allanconta5"] },
     { "nome": "Terça Livre", "instagram": ["tercalivre"], "youtube": ["UCjclm-vtSde3xPGpQku7djA"] },
-    { "nome": "Gustavo Gayer", "x": ["gayergus"], "instagram": ["gusgayer"], "youtube": ["gustavogayer"], "facebook": ["gustavogayer"] },
+    { "nome": "Gustavo Gayer", "x": ["gayergus"], "instagram": ["gusgayer", "gustavogayerdep", "gustavo.gayer"], "tiktok": ["gusgayer"], "youtube": ["gustavogayer", "papoconservador"], "facebook": ["gustavogayer", "gustavogayerdeputadofederal"], "threads": ["gusgayer", "gustavogayerdep", "gustavo.gayer"], "kwai": ["gustavogayer"], "gettr": ["gustavogayer"], "telegram": ["gusgayer"] },
     { "nome": "Marcos Pollon", "x": ["pollonmarcos"], "instagram": ["pollonms"], "youtube": ["UC8ioF4r2QoAp5mMp1epPAsg"], "facebook": ["mpollon"] },
     { "nome": "Zé Trovão", "instagram": ["zetrovaoavozdasestradas"], "telegram": ["zetrovaooficial"] },
     { "nome": "Coronel Chrisóstomo", "instagram": ["depcoronelchrisostomo"] },

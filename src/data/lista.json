@@ -1,5 +1,5 @@
 {
-  "versao": 20,
+  "versao": 21,
   "atualizado": "2026-11-17",
   "perfis": [
     { "nome": "Jair Bolsonaro", "x": ["jairbolsonaro"], "instagram": ["jairmessiasbolsonaro"], "tiktok": ["bolsonaromessiasjair"], "youtube": ["UC8hGUtfEgvvnp6IaHSAg1OQ", "jbolsonaro"], "facebook": ["jairmessias.bolsonaro"], "threads": ["jairmessiasbolsonaro"], "telegram": ["jairbolsonarobrasil"] },
@@ -81,6 +81,7 @@
     { "nome": "Sargento Salazar", "instagram": ["sargento_salazaroficial"], "tiktok": ["sargentosalazaroficiall"], "youtube": ["ucjuucujo0rqv0yjpxgydfsg"], "facebook": ["sargentosilvasalazar"], "threads": ["sargento_salazaroficial"], "kwai": ["sargentosalazar"] },
     { "nome": "Thiago Gagliasso", "x": ["thigagliasso"], "instagram": ["thigagliasso"], "tiktok": ["thiagogagliasso"], "youtube": ["thiagogagliasso9"], "threads": ["thigagliasso"] },
     { "nome": "Thiago Manzoni", "x": ["thiagomanzonidf"], "instagram": ["thiago.manzoni"], "tiktok": ["thiago.manzoni"], "youtube": ["thiago.manzoni"], "facebook": ["thiagomanzonidf"], "threads": ["thiago.manzoni"] },
-    { "nome": "Adriane Lopes", "instagram": ["adrianelopesms"], "tiktok": ["prefeita.adriane"], "youtube": ["adrianelopesms"], "facebook": ["adrianelopesms"], "threads": ["adrianelopesms"] }
+    { "nome": "Adriane Lopes", "instagram": ["adrianelopesms"], "tiktok": ["prefeita.adriane"], "youtube": ["adrianelopesms"], "facebook": ["adrianelopesms"], "threads": ["adrianelopesms"] },
+    { "nome": "Guilherme Derrite", "x": ["derritesp"], "instagram": ["guilhermederrite"], "facebook": ["guilhermederrite"], "threads": ["guilhermederrite"] }
   ]
 }

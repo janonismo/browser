@@ -1,5 +1,5 @@
 {
-  "versao": 4,
+  "versao": 5,
   "atualizado": "2026-11-17",
   "perfis": [
     { "nome": "Jair Bolsonaro", "x": ["jairbolsonaro"], "instagram": ["jairmessiasbolsonaro"], "tiktok": ["bolsonaromessiasjair"], "youtube": ["UC8hGUtfEgvvnp6IaHSAg1OQ", "jbolsonaro"], "facebook": ["jairmessias.bolsonaro"], "threads": ["jairmessiasbolsonaro"], "telegram": ["jairbolsonarobrasil"] },
@@ -66,6 +66,7 @@
     { "nome": "Donald Trump", "x": ["realdonaldtrump"], "instagram": ["realdonaldtrump"], "tiktok": ["realdonaldtrump"], "youtube": ["UCAql2DyGU2un1Ei2nMYsqOA", "donaldjtrumpforpresident"], "facebook": ["donaldtrump"], "truthsocial": ["realdonaldtrump"] },
     { "nome": "Javier Milei", "x": ["jmilei"], "instagram": ["javiermilei"], "tiktok": ["javiermileii"], "youtube": ["UCwKZnJ48oXRCCGCQbL1BPSA"], "facebook": ["javiermileieconomista"] },
     { "nome": "Rafael Rizzo", "x": ["rizzombl"], "instagram": ["rizzombl"], "threads": ["rizzombl"] },
-    { "nome": "Carlos Portinho", "x": ["carlosfportinho"], "instagram": ["carlosportinho"], "tiktok": ["carlosfportinho"], "youtube": ["carlosfportinho"], "facebook": ["carlosfportinho"], "threads": ["carlosportinho"] }
+    { "nome": "Carlos Portinho", "x": ["carlosfportinho"], "instagram": ["carlosportinho"], "tiktok": ["carlosfportinho"], "youtube": ["carlosfportinho"], "facebook": ["carlosfportinho"], "threads": ["carlosportinho"] },
+    { "nome": "Rubinho Nunes", "x": ["rubinhonunes"], "instagram": ["rubinhonunes.sp"], "tiktok": ["rubinhonunes.sp"], "youtube": ["rubinhonunessp"], "facebook": ["rubinhonunes.sp"], "threads": ["rubinhonunes.sp"], "kwai": ["rubinhonunes"], "telegram": ["rubinhonunes"] }
   ]
 }

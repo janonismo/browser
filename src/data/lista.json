@@ -1,5 +1,5 @@
 {
-  "versao": 17,
+  "versao": 18,
   "atualizado": "2026-11-17",
   "perfis": [
     { "nome": "Jair Bolsonaro", "x": ["jairbolsonaro"], "instagram": ["jairmessiasbolsonaro"], "tiktok": ["bolsonaromessiasjair"], "youtube": ["UC8hGUtfEgvvnp6IaHSAg1OQ", "jbolsonaro"], "facebook": ["jairmessias.bolsonaro"], "threads": ["jairmessiasbolsonaro"], "telegram": ["jairbolsonarobrasil"] },
@@ -79,6 +79,7 @@
     { "nome": "Eduardo Gomes", "x": ["eduardogomesto"], "instagram": ["eduardogomestocantins"], "tiktok": ["eduardogomestocantins"], "youtube": ["eduardogomessenador"], "facebook": ["senadoreduardogomes"], "threads": ["eduardogomestocantins"], "kwai": ["senadoreduardogomes"] },
     { "nome": "Sofia Andrade", "instagram": ["sofiaandrade.ro"], "tiktok": ["sofiaandradero2233", "sofiaandradero"], "youtube": ["ucpk2w8w1jsoqfiarvjvtpda"], "facebook": ["sofiaandrade.ro", "100009472052894"], "threads": ["sofiaandrade.ro"], "kwai": ["sofiaandrade_ro"] },
     { "nome": "Sargento Salazar", "instagram": ["sargento_salazaroficial"], "tiktok": ["sargentosalazaroficiall"], "youtube": ["ucjuucujo0rqv0yjpxgydfsg"], "facebook": ["sargentosilvasalazar"], "threads": ["sargento_salazaroficial"], "kwai": ["sargentosalazar"] },
-    { "nome": "Thiago Gagliasso", "x": ["thigagliasso"], "instagram": ["thigagliasso"], "tiktok": ["thiagogagliasso"], "youtube": ["thiagogagliasso9"], "threads": ["thigagliasso"] }
+    { "nome": "Thiago Gagliasso", "x": ["thigagliasso"], "instagram": ["thigagliasso"], "tiktok": ["thiagogagliasso"], "youtube": ["thiagogagliasso9"], "threads": ["thigagliasso"] },
+    { "nome": "Thiago Manzoni", "x": ["thiagomanzonidf"], "instagram": ["thiago.manzoni"], "tiktok": ["thiago.manzoni"], "youtube": ["thiago.manzoni"], "facebook": ["thiagomanzonidf"], "threads": ["thiago.manzoni"] }
   ]
 }

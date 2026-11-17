@@ -1,5 +1,5 @@
 {
-  "versao": 14,
+  "versao": 15,
   "atualizado": "2026-11-17",
   "perfis": [
     { "nome": "Jair Bolsonaro", "x": ["jairbolsonaro"], "instagram": ["jairmessiasbolsonaro"], "tiktok": ["bolsonaromessiasjair"], "youtube": ["UC8hGUtfEgvvnp6IaHSAg1OQ", "jbolsonaro"], "facebook": ["jairmessias.bolsonaro"], "threads": ["jairmessiasbolsonaro"], "telegram": ["jairbolsonarobrasil"] },
@@ -76,6 +76,7 @@
     { "nome": "Major Vitor Hugo", "x": ["majorvitorhugo"], "instagram": ["majorvitorhugo"], "tiktok": ["vitorhugogoias"], "youtube": ["vitorhugogo"], "facebook": ["deputadovitorhugo"], "threads": ["majorvitorhugo"] },
     { "nome": "Anderson Ferreira", "x": ["simboramudar22"], "instagram": ["andersonferreira.22"], "youtube": ["andersonferreirapl"], "facebook": ["eutocomanderson22"], "threads": ["andersonferreira.22"] },
     { "nome": "Márcio Bittar", "x": ["marciombittar"], "instagram": ["marciobittar_"], "youtube": ["senadormarciobittar"], "facebook": ["marciobittaroficial"], "threads": ["marciobittar_"] },
-    { "nome": "Eduardo Gomes", "x": ["eduardogomesto"], "instagram": ["eduardogomestocantins"], "tiktok": ["eduardogomestocantins"], "youtube": ["eduardogomessenador"], "facebook": ["senadoreduardogomes"], "threads": ["eduardogomestocantins"], "kwai": ["senadoreduardogomes"] }
+    { "nome": "Eduardo Gomes", "x": ["eduardogomesto"], "instagram": ["eduardogomestocantins"], "tiktok": ["eduardogomestocantins"], "youtube": ["eduardogomessenador"], "facebook": ["senadoreduardogomes"], "threads": ["eduardogomestocantins"], "kwai": ["senadoreduardogomes"] },
+    { "nome": "Sofia Andrade", "instagram": ["sofiaandrade.ro"], "tiktok": ["sofiaandradero2233", "sofiaandradero"], "youtube": ["ucpk2w8w1jsoqfiarvjvtpda"], "facebook": ["sofiaandrade.ro", "100009472052894"], "threads": ["sofiaandrade.ro"], "kwai": ["sofiaandrade_ro"] }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "versao": 9,
+  "versao": 10,
   "atualizado": "2026-11-17",
   "perfis": [
     { "nome": "Jair Bolsonaro", "x": ["jairbolsonaro"], "instagram": ["jairmessiasbolsonaro"], "tiktok": ["bolsonaromessiasjair"], "youtube": ["UC8hGUtfEgvvnp6IaHSAg1OQ", "jbolsonaro"], "facebook": ["jairmessias.bolsonaro"], "threads": ["jairmessiasbolsonaro"], "telegram": ["jairbolsonarobrasil"] },
@@ -71,6 +71,7 @@
     { "nome": "Arthur do Val", "x": ["arthurmoledoval"], "instagram": ["arthurmoledoval", "mamaefalei"], "youtube": ["ucksjy-ioeq-emtarzl2uh1q", "mamaefalei"], "facebook": ["arthurdoval"], "threads": ["arthurmoledoval"] },
     { "nome": "Renan Santos", "x": ["renansantosmbl"], "instagram": ["renansantosmbl", "renanvote14", "oncaviral", "multiversoamarelo", "jaguatiricahub", "nextfragments", "blackjaguarsquad"], "tiktok": ["renansantosmbl", "renansantosreserva", "oncaviral", "multiversoamarelo", "jaguatiricahub", "nextfragments", "blackjaguarsquad"], "youtube": ["renansantosmbl"], "facebook": ["renansantosmbl"], "threads": ["renansantosmbl"] },
     { "nome": "Amanda Vettorazzo", "instagram": ["amanda.vettorazzo"], "tiktok": ["amanda.vettorazzo"], "threads": ["amanda.vettorazzo"] },
-    { "nome": "Eduarda Campopiano", "x": ["dudacampopiano"], "instagram": ["eduarda_campopiano", "eduardacampopianobr"], "tiktok": ["eduarda.campopiano"], "youtube": ["eduardacampopiano"], "facebook": ["eduardacampopiano"], "threads": ["eduarda_campopiano", "eduardacampopianobr"] }
+    { "nome": "Eduarda Campopiano", "x": ["dudacampopiano"], "instagram": ["eduarda_campopiano", "eduardacampopianobr"], "tiktok": ["eduarda.campopiano"], "youtube": ["eduardacampopiano"], "facebook": ["eduardacampopiano"], "threads": ["eduarda_campopiano", "eduardacampopianobr"] },
+    { "nome": "Lucas Pavanato", "x": ["lucaspavanato"], "instagram": ["lucaspavanato"], "tiktok": ["lucaspavanato"], "youtube": ["lucaspavanato", "uc72ujvo3m_ph5kfg4fkatoa"], "facebook": ["lucaspavanato"], "threads": ["lucaspavanato"] }
   ]
 }

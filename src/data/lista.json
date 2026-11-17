@@ -1,5 +1,5 @@
 {
-  "versao": 5,
+  "versao": 6,
   "atualizado": "2026-11-17",
   "perfis": [
     { "nome": "Jair Bolsonaro", "x": ["jairbolsonaro"], "instagram": ["jairmessiasbolsonaro"], "tiktok": ["bolsonaromessiasjair"], "youtube": ["UC8hGUtfEgvvnp6IaHSAg1OQ", "jbolsonaro"], "facebook": ["jairmessias.bolsonaro"], "threads": ["jairmessiasbolsonaro"], "telegram": ["jairbolsonarobrasil"] },
@@ -67,6 +67,7 @@
     { "nome": "Javier Milei", "x": ["jmilei"], "instagram": ["javiermilei"], "tiktok": ["javiermileii"], "youtube": ["UCwKZnJ48oXRCCGCQbL1BPSA"], "facebook": ["javiermileieconomista"] },
     { "nome": "Rafael Rizzo", "x": ["rizzombl"], "instagram": ["rizzombl"], "threads": ["rizzombl"] },
     { "nome": "Carlos Portinho", "x": ["carlosfportinho"], "instagram": ["carlosportinho"], "tiktok": ["carlosfportinho"], "youtube": ["carlosfportinho"], "facebook": ["carlosfportinho"], "threads": ["carlosportinho"] },
-    { "nome": "Rubinho Nunes", "x": ["rubinhonunes"], "instagram": ["rubinhonunes.sp"], "tiktok": ["rubinhonunes.sp"], "youtube": ["rubinhonunessp"], "facebook": ["rubinhonunes.sp"], "threads": ["rubinhonunes.sp"], "kwai": ["rubinhonunes"], "telegram": ["rubinhonunes"] }
+    { "nome": "Rubinho Nunes", "x": ["rubinhonunes"], "instagram": ["rubinhonunes.sp"], "tiktok": ["rubinhonunes.sp"], "youtube": ["rubinhonunessp"], "facebook": ["rubinhonunes.sp"], "threads": ["rubinhonunes.sp"], "kwai": ["rubinhonunes"], "telegram": ["rubinhonunes"] },
+    { "nome": "Arthur do Val", "x": ["arthurmoledoval"], "instagram": ["arthurmoledoval", "mamaefalei"], "youtube": ["ucksjy-ioeq-emtarzl2uh1q", "mamaefalei"], "facebook": ["arthurdoval"], "threads": ["arthurmoledoval"] }
   ]
 }
